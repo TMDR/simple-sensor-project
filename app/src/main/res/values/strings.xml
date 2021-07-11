@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">M1Project</string>
+    <string name="done">DONE</string>
+    <string name="choose_sensors_you_want_to_work_on">Choose Sensors You Want To Work On</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+</resources>
